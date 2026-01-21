@@ -1,5 +1,5 @@
 # aws-cognito
-Web server with Cognito
+Web server with Cognitos
 
 ## Requirements
 - Terraform v1.7.5
